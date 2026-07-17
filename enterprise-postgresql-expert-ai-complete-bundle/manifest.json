@@ -1,0 +1,13 @@
+{
+  "bundle_version": "0.2.0-complete",
+  "archives": [
+    "postgresql-expert-ai-starter.zip",
+    "postgresql-expert-ai-update-01.zip",
+    "postgresql-expert-ai-foundation-update.zip",
+    "postgresql-ai-training-pack-01.zip",
+    "postgresql-expert-ai-github-starter.zip",
+    "enterprise-postgresql-expert-ai-v0.1.0.zip",
+    "enterprise-postgresql-expert-ai-v0.2.0.zip"
+  ],
+  "consolidated_project": "consolidated-project"
+}

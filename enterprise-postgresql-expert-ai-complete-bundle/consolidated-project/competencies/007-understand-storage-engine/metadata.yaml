@@ -1,0 +1,12 @@
+id: competency-007
+title: Understand the PostgreSQL Storage Engine
+difficulty: intermediate
+estimated_time_hours: 12
+capabilities:
+  - explain relation storage
+  - reason about heap pages
+  - explain FSM and visibility map
+  - evaluate bloat and storage symptoms
+prerequisites:
+  - competency-002
+  - competency-004

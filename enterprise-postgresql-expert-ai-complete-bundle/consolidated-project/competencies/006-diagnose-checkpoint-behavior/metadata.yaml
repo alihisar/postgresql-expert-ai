@@ -1,0 +1,11 @@
+id: competency-006
+title: Diagnose Checkpoint Behavior
+difficulty: intermediate
+estimated_time_hours: 10
+capabilities:
+  - explain checkpoint purpose
+  - diagnose checkpoint pressure
+  - distinguish checkpoints from WAL flushing
+  - evaluate recovery and I/O trade-offs
+prerequisites:
+  - competency-005

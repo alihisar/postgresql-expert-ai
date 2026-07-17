@@ -1,0 +1,10 @@
+id: competency-003
+title: Understand PostgreSQL Memory Architecture
+difficulty: intermediate
+estimated_time_hours: 8
+capabilities:
+  - classify PostgreSQL memory
+  - reason about concurrency multiplication
+  - avoid unsafe tuning
+prerequisites:
+  - competency-002

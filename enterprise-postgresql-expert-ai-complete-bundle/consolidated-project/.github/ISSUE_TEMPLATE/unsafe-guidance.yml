@@ -1,0 +1,25 @@
+name: Unsafe guidance report
+description: Report a command or procedure that may cause data loss or an outage
+title: "safety: "
+labels:
+  - safety
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: File and section containing the guidance
+    validations:
+      required: true
+  - type: textarea
+    id: risk
+    attributes:
+      label: Risk
+      description: Explain the possible data-loss, availability, or security impact
+    validations:
+      required: true
+  - type: textarea
+    id: safer
+    attributes:
+      label: Safer alternative
+      description: Suggest a safer diagnostic or operational approach when possible

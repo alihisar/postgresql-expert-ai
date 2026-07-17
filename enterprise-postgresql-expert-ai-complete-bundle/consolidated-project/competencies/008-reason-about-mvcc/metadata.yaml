@@ -1,0 +1,11 @@
+id: competency-008
+title: Reason About MVCC
+difficulty: advanced
+estimated_time_hours: 14
+capabilities:
+  - explain tuple visibility
+  - reason about snapshots
+  - diagnose dead tuple accumulation
+  - connect MVCC to vacuum, locks, and long transactions
+prerequisites:
+  - competency-007

@@ -1,0 +1,23 @@
+name: Documentation improvement
+description: Report inaccurate, incomplete, or unclear documentation
+title: "docs: "
+labels:
+  - documentation
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is inaccurate, incomplete, or unclear?
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Affected versions
+      description: PostgreSQL or component versions, when applicable
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or references
+      description: Include official documentation, logs with secrets removed, or reproducible test details

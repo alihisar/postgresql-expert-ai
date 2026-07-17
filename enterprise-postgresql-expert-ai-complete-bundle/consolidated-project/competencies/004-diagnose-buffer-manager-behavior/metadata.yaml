@@ -1,0 +1,12 @@
+id: competency-004
+title: Diagnose Buffer Manager Behavior
+difficulty: intermediate
+estimated_time_hours: 10
+capabilities:
+  - interpret EXPLAIN BUFFERS
+  - distinguish cache hit from read
+  - reason about dirty pages and writes
+  - avoid false disk conclusions
+prerequisites:
+  - competency-002
+  - competency-003

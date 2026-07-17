@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "language": "English",
+  "competencies": [
+    "005-diagnose-wal-behavior",
+    "006-diagnose-checkpoint-behavior",
+    "007-understand-storage-engine",
+    "008-reason-about-mvcc"
+  ]
+}

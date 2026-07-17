@@ -1,0 +1,10 @@
+id: competency-002
+title: Understand PostgreSQL Architecture
+difficulty: foundation
+estimated_time_hours: 8
+capabilities:
+  - trace query lifecycle
+  - classify PostgreSQL subsystems
+  - distinguish process, memory, and storage responsibilities
+prerequisites:
+  - competency-001

@@ -1,0 +1,11 @@
+id: competency-001
+title: Think Like an Enterprise PostgreSQL DBA
+difficulty: foundation
+estimated_time_hours: 6
+capabilities:
+  - evidence collection
+  - hypothesis generation
+  - risk assessment
+  - rollback planning
+  - validation
+prerequisites: []

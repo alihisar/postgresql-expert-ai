@@ -1,0 +1,13 @@
+id: competency-005
+title: Diagnose WAL Behavior
+difficulty: intermediate
+estimated_time_hours: 10
+capabilities:
+  - explain WAL from first principles
+  - diagnose WAL growth
+  - reason about durability
+  - evaluate archive and replication impact
+prerequisites:
+  - competency-002
+  - competency-003
+  - competency-004
